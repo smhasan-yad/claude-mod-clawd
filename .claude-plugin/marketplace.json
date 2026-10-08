@@ -1,0 +1,13 @@
+{
+    "name":  "claude-mod-clawd",
+    "owner":  {
+                  "name":  "Hasan"
+              },
+    "plugins":  [
+                    {
+                        "description":  "Claude Code\u0027s pixel mascot, animated with the desktop app\u0027s own frames, at the right of the Mod Bar toolbar: it looks around while idle, thinks, and types at a laptop or computer while Claude edits or runs commands, with the current step and elapsed time beside it. Watches tool calls only: no tokens.",
+                        "name":  "clawd",
+                        "source":  "./"
+                    }
+                ]
+}
